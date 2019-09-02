@@ -1,7 +1,7 @@
-# Site
 remote_theme : TaylanTatli/Moon
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
+# Site
+title:              ikHuH
+bio:                '허인경의 포트폴리오'
 description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
